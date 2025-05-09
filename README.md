@@ -76,7 +76,3 @@ Classification Report:
 weighted avg       0.79      0.80      0.79      1409
 
 ---
-
-## 📈 Decision tree snapshot
-
-![decision tree](https://github.com/user-attachments/assets/45901677-7335-408a-99af-499c8bbfe8a8)
