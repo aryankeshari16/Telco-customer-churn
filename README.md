@@ -61,3 +61,22 @@ Welcome to my **Customer Churn Prediction** project, where I tackled a real-worl
 ---
 
 ## 📈 Confusion Matrix Snapshot
+Confusion matrix:
+[[939  97]
+ [180 193]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       0.84      0.91      0.87      1036
+        True       0.67      0.52      0.58       373
+
+    accuracy                           0.80      1409
+   macro avg       0.75      0.71      0.73      1409
+weighted avg       0.79      0.80      0.79      1409
+
+---
+
+## 📈 Decision tree snapshot
+
+![decision tree](https://github.com/user-attachments/assets/45901677-7335-408a-99af-499c8bbfe8a8)
