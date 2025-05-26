@@ -44,7 +44,7 @@ Welcome to my **Customer Churn Prediction** project, where I tackled a real-worl
 
 - Customers with **high monthly charges** and **multiple services** tend to churn more  
 - **Tenure** plays a vital role — newer customers churn more  
-- **Contract type** and **Paperless Billing** strongly influence churn  
+- **Contract type** strongly influence churn  
 
 ---
 
