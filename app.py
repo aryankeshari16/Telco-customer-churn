@@ -21,7 +21,7 @@ def predict():
             'Contract': request.form['Contract'],
             'tenure': int(request.form['tenure']),
             'TotalCharges': float(request.form['TotalCharges']),
-            'PaymentMethod': request.form['PaymentMethod'],
+            'PaymentMethod': request.form['StreamingTV'],
             'TechSupport': request.form['TechSupport']
         }
 
